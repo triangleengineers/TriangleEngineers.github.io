@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+header {
+  background: #013840;
+  color: white;
+  padding: 40px 20px;
+}
+
+.logo {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-style: italic;
+  color: #aaa;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+h2 {
+  color: #013840;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+footer {
+  background: #013840;
+  color: white;
+  padding: 20px;
+}
